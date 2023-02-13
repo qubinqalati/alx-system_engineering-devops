@@ -9,3 +9,5 @@
 4-lastlines: A script to display the last 10 lines of a file.
 
 5-firstlines: A script to display the first 10 lines of a file.
+
+6-third_line: A script that displays a third line of a file.
