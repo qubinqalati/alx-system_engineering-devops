@@ -11,3 +11,5 @@
 5-firstlines: A script to display the first 10 lines of a file.
 
 6-third_line: A script that displays a third line of a file.
+
+7-file: A script that creates a file.
