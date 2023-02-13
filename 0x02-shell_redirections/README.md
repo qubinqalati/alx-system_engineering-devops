@@ -7,3 +7,5 @@
 3-twofiles: A script to display the contents of two files.
 
 4-lastlines: A script to display the last 10 lines of a file.
+
+5-firstlines: A script to display the first 10 lines of a file.
