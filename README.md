@@ -1,1 +1,2 @@
-The repository for the shell basics project for cohort 12
+The read me file for the shell permissions task.
+Testing
