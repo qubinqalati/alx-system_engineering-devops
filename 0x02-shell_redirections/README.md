@@ -5,3 +5,5 @@
 2-hellofile: A script to display the content of a file.
 
 3-twofiles: A script to display the contents of two files.
+
+4-lastlines: A script to display the last 10 lines of a file.
