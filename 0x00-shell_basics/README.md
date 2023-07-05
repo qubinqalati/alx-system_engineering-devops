@@ -1,7 +1,7 @@
 # 0x00 Shell Basics
 
 ## Project Description:
-##### A project that teaches the principles of shell programming. In this project, I were tasked with writing bash scripts that contained some of the most fundamental and commonly used shell commands.
+#### A project that teaches the principles of shell programming. In this project, I were tasked with writing bash scripts that contained some of the most fundamental and commonly used shell commands.
 
 > > ## Description of ALL the Script:
 
