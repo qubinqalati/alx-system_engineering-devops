@@ -1,6 +1,9 @@
 # 0x00 Shell Basics
 
-#### Description of ALL the Script:
+## Project Description:
+A project that teaches the principles of shell programming. In this project, I were tasked with writing bash scripts that contained some of the most fundamental and commonly used shell commands.
+
+> > ## Description of ALL the Script:
 
 > **0-current_working_directory:** A script that prints the absolute path name of the current working directory.
 >
@@ -32,7 +35,7 @@
 >
 > **14-copy_html:** A script that copies files which end with a certain extension. In this case, the script copies HTML files.
 >
-> #### Advanced Tasks
+> > ## Advanced Tasks
 >
 > **100-lets_move:** A script that moves all files beginning with an uppercase letter.
 >
