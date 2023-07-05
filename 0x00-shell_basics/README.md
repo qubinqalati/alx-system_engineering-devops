@@ -1,7 +1,7 @@
 # 0x00 Shell Basics
 
 ## Project Description:
-A project that teaches the principles of shell programming. In this project, I were tasked with writing bash scripts that contained some of the most fundamental and commonly used shell commands.
+##### A project that teaches the principles of shell programming. In this project, I were tasked with writing bash scripts that contained some of the most fundamental and commonly used shell commands.
 
 > > ## Description of ALL the Script:
 
@@ -35,11 +35,12 @@ A project that teaches the principles of shell programming. In this project, I w
 >
 > **14-copy_html:** A script that copies files which end with a certain extension. In this case, the script copies HTML files.
 >
-> > ## Advanced Tasks
+> > ## Advanced Tasks:
 >
 > **100-lets_move:** A script that moves all files beginning with an uppercase letter.
 >
 > **101-clean_emacs:** a script that deletes all files in the current working directory that end with the character ~.
+>
 > **102-tree:**  a script that creates multiple directories in the current directory.
 >
 > **103-commas:** A command that lists all the files and directories of the current directory, separated by commas.
