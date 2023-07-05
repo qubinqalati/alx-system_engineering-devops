@@ -23,3 +23,5 @@
 > **9-firstdirdeletion:** A script that deletes a directory.
 >
 > **10-back:** A script that changes the working directory to the previous one.
+>
+> **11-lists:** A script that lists all files in the current directory and the parent of the working directory, in long format.
